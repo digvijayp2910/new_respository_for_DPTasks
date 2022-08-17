@@ -12,11 +12,6 @@ Task 1. Add a new files Test.txt, ReadMe.txt to the repo :-
 -> git push origin master
 
 
-2. Add a file to the staging environment :- 
-
-
--> 
-
 -> 
 
 -> 
